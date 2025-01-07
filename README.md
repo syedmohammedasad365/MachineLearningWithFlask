@@ -1,2 +1,2 @@
 # MachineLearningWithFlask
-# This is a project build using machine learning algorithm with Flask
+## Daily assignments are uploaded and daily changes are done
