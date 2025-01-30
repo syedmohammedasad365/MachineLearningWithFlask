@@ -1,5 +1,3 @@
-# MachineLearningWithFlask
-## Daily assignments are uploaded and daily changes are done
 # <u>ExcelR-AD-Repository</u>
 ## This repository serves as a dedicated log for the progress throughout the **ExcelR-AD** classes.
 
@@ -39,5 +37,12 @@ This repository is designed to track and update the learning journey, documentin
 - **Day 11**: ✅ Task Completed  
 - **Day 12**: ✅ Task Completed  
 - **Day 13**: ✅ Task Completed
+- **Day 14**: ✅ Task Completed
+- **Day 15**: ✅ Task Completed
+- **Day 16**: ✅ Task Completed
+- **Day 17**: ✅ Task Completed
+- **Day 18**: ✅ Task Completed
+- **Day 19**: ✅ Task Completed
+- **Day 20**: ✅ Task Completed
 
 ---
